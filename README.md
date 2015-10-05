@@ -12,9 +12,9 @@ It gives the content admin role proper permissions and creates custom views for 
 The Tasty Backend modules do **not** require you to use the Tasty Backend Install Profile. You can try it out on a new install someday.
 
 ###Installation
-Download the zip and place the expanded folder in your /sites/default/all/modules folder.
+Download the zip and place the expanded folder in your /sites/all/modules folder.
 
-Go to admin/modules and make sure you have all the prerequisite modules installed, and then activate the Tasty Backend Media Module.
+Go to admin/modules and make sure you have all the prerequisite modules installed, and then activate the Tasty Backend Webform Module.
 
 **The Tasty Backend Webform Module requires these prerequisite modules.**
     * **Contributed modules**:  *webforms* *tasty_backend_base*
